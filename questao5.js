@@ -1,0 +1,1 @@
+Ligaria o interruptor A por 30 segundos, depois iria na sala verificar se alguma lâmpada estava aquecida;
